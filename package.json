@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "backend for demo of e-commerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohan prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
